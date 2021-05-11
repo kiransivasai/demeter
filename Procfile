@@ -1,1 +1,1 @@
-web: gunicorn deMeter.wsgi --log-file -
+web: gunicorn demeter.wsgi --log-file -
