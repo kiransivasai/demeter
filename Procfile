@@ -1,0 +1,1 @@
+web: gunicorn deMeter.wsgi --log-file -
