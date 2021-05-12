@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-6_x)!9xj*1b-#4bfj8h4378w74cf_g$p2i$sv(zdg-n19&n@-9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["demeter-ap.herokuapp.com","127.0.0.1:8000"]
+ALLOWED_HOSTS = ["demeter-ap.herokuapp.com","127.0.0.1"]
 
 
 # Application definition
